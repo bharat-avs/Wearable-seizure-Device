@@ -5,7 +5,6 @@
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Hardware](https://img.shields.io/badge/IoT_Hardware-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-🏆 **Winner:** Project Competition at the Zynex Event (Cambridge Institute of Technology)
 
 An integrated IoT safety prototype engineered to detect physical anomalies associated with seizures and automate emergency response. The system utilizes an ESP32 microcontroller running MicroPython to process live sensor data, paired with a custom Android dashboard for real-time monitoring and alert management.
 
